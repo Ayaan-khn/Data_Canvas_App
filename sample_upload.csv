@@ -1,0 +1,11 @@
+Region,Product,Sales,Profit,Orders,Status
+North,Laptop,125000,18500,42,Completed
+South,Phone,98000,14200,58,Completed
+East,Tablet,67000,9100,33,Pending
+West,Monitor,54000,7600,27,Completed
+Central,Keyboard,21000,3200,81,Processing
+North,Mouse,18000,2900,95,Completed
+South,Printer,43000,5100,19,Pending
+East,Speaker,39000,4800,24,Completed
+West,Router,47000,6200,36,Processing
+Central,Camera,88000,11300,17,Completed
