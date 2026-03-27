@@ -1,17 +1,5 @@
-# wifi_v1
+Data Canvas App Version 1.0 
 
-A Wifi App which Help to watch User activity.......
+Developed a cross-platform spreadsheet visualization application using Flutter that enables users to upload Excel, CSV, TSV, and text-based tabular files and instantly convert raw data into interactive visual insights. The app was designed to simplify data exploration for users who may not have technical or analytics backgrounds by providing an intuitive interface for importing files, previewing records, selecting label and value columns, and switching between multiple chart formats such as bar charts, line graphs, pie charts, and donut charts.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Implemented a dynamic data parsing system capable of handling a wide variety of spreadsheet structures, including files with inconsistent headers, mixed-value columns, repeated categories, irregular row lengths, and partially numeric datasets. To improve resilience and user experience, added fallback logic that supports frequency-based visualizations even when no clear numeric column is available, allowing the application to remain functional across diverse real-world data uploads rather than only ideal spreadsheet formats. This made the tool more adaptable, user-friendly, and practical for broader usage scenarios.
