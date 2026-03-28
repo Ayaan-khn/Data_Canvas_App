@@ -48,6 +48,7 @@ ThemeData _buildTheme(Brightness brightness, Color seed) {
     seedColor: seed,
     brightness: brightness,
   );
+  // checking
 
   return ThemeData(
     useMaterial3: true,
